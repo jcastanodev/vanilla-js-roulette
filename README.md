@@ -22,13 +22,17 @@ You can start and stop the spinning of the wheel using dedicated buttons.
 
 `git clone https://github.com/your-username/roulette`
 
-### Open roulette.html in your browser
+### Open [roulette.html](roulette.html) in your browser
 
 This will open the roulette game in your web browser.
 
 Click the "start" button: The wheel will start spinning.
 
 Click the "stop" button: The wheel will stop spinning, and the result will be displayed.
+
+## Preview
+
+![Roulette Wheel](/resources/preview.png)
 
 ## Customization
 
